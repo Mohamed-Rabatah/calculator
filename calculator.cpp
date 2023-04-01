@@ -32,6 +32,7 @@ class Cal
     } 
     int mult() 
     { 
+        
         return n1*n2; 
     } 
      
